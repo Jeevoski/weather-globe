@@ -1,8 +1,4 @@
-Here’s a clean and informative `README.md` for your **Weather Globe App**:
 
----
-
-````markdown
 # 🌍 Weather Globe App
 
 An interactive 3D globe weather web app built using [Globe.gl](https://globe.gl), [Three.js](https://threejs.org), and the [OpenWeatherMap API](https://openweathermap.org/api).
@@ -70,10 +66,3 @@ This project is licensed under the [MIT License](LICENSE).
 * [Globe.gl](https://github.com/vasturiano/globe.gl)
 * [Three.js](https://threejs.org)
 * [OpenWeatherMap API](https://openweathermap.org)
-
-```
-
----
-
-Let me know if you'd like to include screenshots or badges (like GitHub stars, license, etc.) too!
-```
